@@ -245,4 +245,5 @@ you supabase anon link = **************************
 ## updated the bounding curve of each newly created token through gprc which i got through a github repo
 ## will update the github link also later
 #   r e v e e e l a i  
+ #   r e v e e e l a i  
  
